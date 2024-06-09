@@ -7,7 +7,23 @@ body{
   position: relative;
   background-image: url('./weather.jpg');
   background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin: 0;
 }
+
+@media (max-width: 768px) {
+  body{
+    background-size: 100% 300px;
+  }
+}
+
+@media (max-width: 480px) {
+  body{
+    background-size: 100% 200px;
+  }
+}
+
 .container{
   width: 600px;
   margin: 100px auto;
@@ -76,4 +92,10 @@ body{
 .wrapper p span{
   color: #5e0df4;
   font-size: 25px;
+}
+
+.copyright {
+  font-size: 14px; 
+  color: whitesmoke; 
+  margin-bottom: 10px;
 }
