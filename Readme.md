@@ -3,6 +3,8 @@
 ## Overview
 The Weather App is a web application that allows users to get current weather information and a 5-day forecast for any city. The application features a modern design with 3D effects and is fully responsive to ensure usability across various devices.
 
+![Image](/Images/Web%20image.png)
+
 ## Features
 - Current weather information for any city.
 - 5-day weather forecast.
