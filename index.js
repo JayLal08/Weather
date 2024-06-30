@@ -11,7 +11,7 @@ var forecastContainer = document.querySelector('#forecast');
 var apik = "bd5e378503939ddaee76f12ad7a97608"; // Replace with your actual API key
 
 function conversion(val) {
-    return (val - 273.15).toFixed(2); // Correct the conversion factor to 273.15 for accuracy
+    return (val - 273.15).toFixed(0); // Correct the conversion factor to 273.15 for accuracy
 }
 
 btn.addEventListener('click', function() {
