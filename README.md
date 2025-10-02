@@ -1,27 +1,27 @@
 # Weather App
 
-## Overview
+### Overview
 The Weather App is a web application that allows users to get current weather information and a 5-day forecast for any city. The application features a modern design with 3D effects and is fully responsive to ensure usability across various devices.
 
-## Features
+### Features
 - Current weather information for any city.
 - 5-day weather forecast.
 - Modern 3D effects and animations.
 - Fully responsive design.
 
-## Technologies Used
+### Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 - [OpenWeatherMap API](https://openweathermap.org/api)
 
-## Getting Started
+### Getting Started
 
-### Prerequisites
+#### Prerequisites
 - A web browser (Chrome, Firefox, Safari, etc.)
 - Internet connection
 
-### Installation
+#### Installation
 1. Clone the repository:
   ```sh
   git clone https://github.com/JayLal08/Weather.git
